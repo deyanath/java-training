@@ -10,7 +10,7 @@ public classs PrimeWithinRange{
                     break;
                 }
             }
-            System.out.println(isprime?i++)
+            System.out.println(isprime?i+":");
         }
     }
 }
